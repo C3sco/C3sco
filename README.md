@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+[![C3sco](https://github-readme-stats.vercel.app/api?username=C3sco)](https://github.com/C3sco/github-readme-stats)
 <!--
 **C3sco/C3sco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
