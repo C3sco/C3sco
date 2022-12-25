@@ -3,10 +3,6 @@
 ## Currentrly working for
 - Olio SB https://www.oliosb.it/
 
-## My github stats
-
-![C3sco's GitHub stats](https://github-readme-stats.vercel.app/api?username=c3sco&show_icons=true&theme=radical)
-
 ## Programming languages I'm working with: <br>
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -20,7 +16,9 @@
   ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
     
-![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=c3sco&repo=github-visitors-badge&countColor=%237B1E7A)
+## My github stats
+  ![C3sco's GitHub stats](https://github-readme-stats.vercel.app/api?username=c3sco&show_icons=true&theme=radical)
+  ![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=c3sco&repo=github-visitors-badge&countColor=%237B1E7A)
 
 ## Socials
 - [Discord](https://discordapp.com/users/291288863379554304)
