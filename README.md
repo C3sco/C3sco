@@ -3,7 +3,7 @@
 ## Currentrly working for
 - Olio SB https://www.oliosb.it/
 
-## Programming languages I'm working with: <br>
+## Programming languages o frameworks which I'm working with: <br>
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
