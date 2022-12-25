@@ -1,7 +1,7 @@
 ## Hello, I'm Francesco 😄
 
 ## Currentrly working for
-- Olio SB https://www.oliosb.it/
+- Olio SB https://www.oliosb.it/ with https://www.lunapartner.it/
 
 ## Programming languages or frameworks which I'm working with: <br>
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
