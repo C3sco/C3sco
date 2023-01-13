@@ -1,4 +1,4 @@
-## Hello, I'm Francesco 😄
+## Hello, I'm Cesco 😄
 
 ## Currentrly working for
 - Olio SB https://www.oliosb.it/ with https://www.lunapartner.it/
