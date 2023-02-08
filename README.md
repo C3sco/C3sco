@@ -24,6 +24,7 @@
 ## Socials
 - [Discord](https://discordapp.com/users/291288863379554304)
 - [Email](mailto:montanarifrancesco1@gmail.com)
+- [Gitlab](https://gitlab.com/C3sco1)
 <!--
 **C3sco/C3sco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
